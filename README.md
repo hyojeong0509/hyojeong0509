@@ -20,7 +20,7 @@
 - 닌자 액션 표창 게임 (Inspired by Archero)
 
 ### 🗂 포트폴리오 주요 프로젝트
-- 🎮 [Farmfluencer - 스타듀밸리 모작 게임](https://github.com/hyojeong0509/Farmfluencer)
+- 🎮 [Farmfluencer - 스타듀밸리 모작 게임](https://github.com/hyojeong0509/Become_Celebrity_on_Farm)
 - 🥷 [Legend Ninja - 닌자 액션 게임](https://github.com/hyojeong0509/LegendNinja)
 
 ### 📫 Contact
